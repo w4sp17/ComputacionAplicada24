@@ -4,6 +4,7 @@
 
 Grupo 8:
 
-Juan Manuel Esteves \n
+Juan Manuel Esteves
+
 Martin Boiwko
 
