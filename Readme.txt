@@ -1,4 +1,4 @@
 Juan Manuel esteves
 Martin Boiwko
 
-![Diagrama de topología](ComputacionAplicada24/topologia.jpg)
+![Diagrama de topología](ComputacionAplicada24/blob/main/topologico.jpeg)
